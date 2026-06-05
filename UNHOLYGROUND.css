@@ -1,0 +1,379 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Road+Rage&family=Special+Elite&display=swap');
+
+body {
+    background: url('https://i.ibb.co/nN6Z581c/edited.png') center center fixed !important;
+    background-size: cover !important;
+}
+
+.container.main {
+    background: none !important;
+    box-shadow: none !important;
+}
+
+.col-md-9 {
+    background: linear-gradient(#2e2723,#322a26,#27211d);
+    border: 3px solid #594A3E;
+    border-top: none;
+}
+
+.navbar {
+background: linear-gradient(#594A3E,#605043,#53453a) !important;
+    transition: 0.5 ease-in-out !important;
+    
+}
+
+.panel {
+    background: linear-gradient(#2e2723,#322a26,#27211d) !important;
+   color: #BFAB93 !important;
+   font-family: 'Special Elite' !important;
+    box-shadow: 1.5px 1.5px #27211d !important;
+    border: 4px solid #27211d !important;
+}
+
+
+
+.navbar li a {
+    background: linear-gradient(#594A3E,#605043,#53453a) !important;
+    color: #BFAB93 !important;
+    font-family: 'Special Elite' !important;
+    font-weight: lighter !important;
+    font-size: 150% !important;
+    transition: 0.5 ease-in-out !important;
+    border: 1.5px solid #2e2723 !important;
+    border-top: none !important;
+    border-bottom: 3px solid #2e2723 !important;
+}
+
+.navbar li a:hover {
+    background: #755d4a !important;
+    color: #cab79f !important;
+     transition: 0.2s ease-in-out !important;
+    font-size: 160% !important;
+}
+.topbar {
+    background: linear-gradient(#2e2723,#322a26,#27211d);
+    color: #cab79f;
+    font-family: 'Special Elite';
+    font-weight: bold;
+}
+
+.welcomeback a {
+color: #BF9663 !important;
+}
+
+.toplinks a {
+    color: #BF9663 !important;
+}
+.toplinks a:hover {
+    font-size: 110% !important;
+    transition: 0.2s ease-in-out !important;
+}
+.welcomeback a:hover {
+    font-size: 110% !important;
+    transition: 0.2s ease-in-out !important;
+}
+.breadcrumb {
+    background: linear-gradient(#594A3E,#605043,#53453a) !important;
+    color: #cab79f !important;
+    font-family: 'Special Elite' !important;
+}
+
+.breadcrumb > li {
+    color: #cab79f !important
+}
+.breadcrumb li a {
+    color: #D9C091 !important
+}
+
+.breadcrumb li a:hover {
+    font-size: 110% !important;
+    transition: 0.2s ease-in-out !important;
+}
+a:hover {
+    font-size: 110% !important;
+    transition: 0.2s ease-in-out !important;
+}
+
+.panel-default a {
+    color: #BF9663 
+}
+
+.small .center a {
+    color: #BF9663
+}
+
+.clear a {
+    color: #BF9663
+}
+
+.col-xs-12 .visible-lg b a {
+    color: #BF9663
+}
+.sidebar h3 {
+  color: #cab79f;
+    font-family: 'Road Rage';
+    font-size: 275%;
+    
+}
+h3 a {
+  color: #cab79f !important;
+    font-family: 'Road Rage';
+    font-size: 175%;
+}
+
+
+.table td {
+    background: #403531;
+    border: none !important;
+}
+.table .top {
+    background: #594A3E;
+    border: 3px solid #8C694A !important;
+    color: #cab79f;
+    font-family: 'Special Elite';
+}
+.table {
+    border: none !important
+}
+
+.table .bottom {
+        background: #594A3E;
+    border: 3px solid #8C694A !important;
+    color: #cab79f;
+    font-family: 'Special Elite';
+}
+#allies .bottom a {
+    color: #D9C091 !important 
+}
+#about .bottom a {
+        color: #D9C091 !important
+}
+.b .bigger {
+        color: #D9C091 !important
+}
+.table th {
+         background: #594A3E;
+    border: 3px solid #8C694A !important;
+    color: #cab79f;
+    font-family: 'Special Elite';   
+}
+th a {
+        color: #D9C091 !important
+}
+
+form div.left {
+    background: linear-gradient(#2e2723,#322a26,#27211d);
+    color: #cab79f;
+    font-family: 'Special Elite';
+    font-weight: bold;
+    border: 2px solid #403531
+}
+
+.dynastylist .left {
+        background: linear-gradient(#2e2723,#322a26,#27211d);
+    color: #cab79f;
+    font-family: 'Special Elite';
+    font-weight: bold;
+    border: 2px solid #403531
+}
+.col-sm-4 .left {
+        background: linear-gradient(#2e2723,#322a26,#27211d);
+    color: #cab79f;
+    font-family: 'Special Elite';
+    font-weight: bold;
+    border: 2px solid #403531
+}
+
+p {
+color: #cab79f;
+        font-family: 'Special Elite';
+}
+.center {
+    color: #cab79f;
+        font-family: 'Special Elite';
+}
+#allies .small {
+    color: #cab79f;
+        font-family: 'Special Elite';
+}
+.cave-grid {
+            background: linear-gradient(#2e2723,#322a26,#27211d);
+    color: #cab79f;
+    font-family: 'Special Elite';
+    font-weight: bold;
+    border: 2px solid #403531;
+    transition: none !important
+}
+.cave-grid i {
+    transition: none !important
+}
+.cave-grid i:hover {
+    transition: none !important
+}
+.cave_grid a {
+    transition: none !important
+}
+
+.mound-grid {
+                background: linear-gradient(#2e2723,#322a26,#27211d);
+    color: #cab79f;
+    font-family: 'Special Elite';
+    font-weight: bold;
+    border: 2px solid #403531;
+    transition: none !important
+}
+
+#allies .small a {
+        color: #D9C091 !important
+}
+.right .bigger {
+            color: #D9C091 !important
+}
+.table .right_odd {
+             background: linear-gradient(#2e2723,#322a26,#27211d);
+    color: #cab79f;
+    font-family: 'Special Elite';
+    font-weight: bold;
+    border: 2px solid #403531;
+    transition: none !important
+}
+.right_odd select {
+    font-family: 'Oswald';
+    font-weight: lighter
+}
+
+.inner-table .left {
+                background: linear-gradient(#2e2723,#322a26,#27211d);
+    color: #cab79f;
+    font-family: 'Special Elite';
+    font-weight: bold;
+    border: 2px solid #403531;
+    transition: none !important
+}
+.inner-table .right {
+    background: #8C694A !important;
+    color: #ead4b9;
+    font-family: 'Special Elite';
+    font-weight: bold;
+}
+
+.inner-table a {
+               color: #D9C091 !important 
+}
+
+.center.xlarge a {
+                color: #D9C091 !important
+}
+
+.left a {
+                color: #D9C091 !important
+}
+
+button {
+              background: linear-gradient(#2e2723,#322a26,#27211d) !important;
+    color: #cab79f !important;
+    font-family: 'Special Elite' !important;
+    font-weight: bold !important;
+    border: 2px solid #403531 !important;   
+}
+input {
+background: linear-gradient(#2e2723,#322a26,#27211d) !important;
+    color: #cab79f !important;
+    font-family: 'Special Elite' !important;
+    font-weight: bold !important;
+    border: 2px solid #403531 !important;  
+}
+.btn-default {
+    background: linear-gradient(#2e2723,#322a26,#27211d) !important;
+    color: #cab79f !important;
+    font-family: 'Special Elite' !important;
+    font-weight: bold !important;
+    border: 2px solid #403531 !important;  
+}
+
+.boxcontainer {
+background:  linear-gradient(#2b2420,#241e1b,#27211d);
+background-size: cover;
+background-attachment: absolute !important;
+max-width: 640px;
+border: 10px solid #8C694A!important;
+box-shadow: 1px 1px 7px!important;
+height: auto;
+padding: 10px;
+margin: 10px;
+justify-content: center;
+display: flex;
+flex-wrap: wrap;
+}
+
+.mediumhoverbox {
+float: left;
+font-weight: 300;
+background: #322a26!important;
+border: 2px solid #hexcode!important;
+color: #ead4b9;
+padding: 10px;
+border: none;
+margin: 10px;
+height: 70px;
+width: 43.8%;
+overflow: scroll;
+overflow-x: hidden;
+border-radius:10px;
+transition: 1s ease-in-out!important;
+font-family: 'Special Elite'
+}
+.largehoverbox h3 {
+    color: #ead4b9;
+    font-weight: bold 
+}
+.mediumhoverbox h3 {
+    color:#ead4b9;
+    font-weight: bold
+}
+.mediumhoverbox:hover {
+height: 350px;
+width: 43.8%;
+}
+
+.largehoverbox {
+float: center;
+font-weight: 300;
+background: #322a26!important;
+border: 2px solid #hexcode!important;
+color: #ead4b9;
+padding: 10px;
+border: none;
+margin: 10px;
+height: 70px;
+width: 90%;
+overflow: scroll;
+overflow-x: hidden;
+border-radius:10px;
+transition: 1s ease-in-out;
+font-family: 'Special Elite'
+}
+h1 {
+   color: #ead4b9 !important; 
+font-family: 'Special Elite' !important;
+}
+#fraProfileContent > h3 {
+   color: #ead4b9 !important; 
+font-family: 'Special Elite' !important;    
+}
+h2 {
+       color: #ead4b9 !important; 
+font-family: 'Special Elite' !important;
+}
+#fraProfileContent > a {
+       color: #D9C091 !important; 
+font-family: 'Special Elite' !important;
+}
+
+.largehoverbox:hover {
+height: 350px;
+width: 90%;
+}
+.mediumhoverbox > a {
+    color: #D9C091
+}
