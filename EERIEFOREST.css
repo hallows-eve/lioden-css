@@ -1,0 +1,463 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Oswald:wght@200..700&family=Road+Rage&family=Rubik+80s+Fade&family=Underdog&display=swap') !important;
+
+body {
+    background: url('https://i.ibb.co/4Z93sYmK/silvana-amicone-a-CHBgtc-E7-D8-unsplash.jpg') center center fixed;
+    background-size: 100%;
+}
+.container.main {
+    background: rgba(0,0,0,0.25) !important;
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.47) 
+}
+.col-md-9 {
+    background: none;
+    border: 5px solid rgba(0,0,0,0.52);
+}
+.sidebar {
+    background: rgba(0,0,0,0.25);
+    border: 5px solid rgba(0,0,0,0.38);
+    border-left: none;
+}
+.navbar {
+    background: rgba(0,0,0,0.54);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.navbar li a {
+    color: rgb(222,222,222) !important;
+    border-left: 3px solid rgba(0,0,0,0.64);
+    transition: 0.3s ease-in-out !important;
+}
+
+.navbar li a:hover {
+    font-size: 175% !important;
+    background: none !important;
+    transition: 0.5s ease !important;
+}
+
+.topbar {
+    background: rgba(0,0,0,0.59);
+    box-shadow: 0px 0px 10px 5px rgba(0,0,0,0.47);
+    border: 5px solid rgba(0,0,0,0.18) !important;
+    border-top: none !important;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center
+}
+
+.topbar a {
+    color: #ffffff !important;
+    transition: 0.2s ease
+
+}
+.topbar a:hover {
+font-size: larger;
+    transition: 0.2s ease;
+}
+
+.panel {
+    background: rgba(0,0,0,0.54) !important;
+    border: 2.5px solid rgba(0,0,0,0.27) !important;
+    box-shadow: none !important;
+    border-radius: 0px !important;
+    color: #FFFFFF !important;
+}
+.panel a {
+    color: rgba(255,255,255,0.74)
+}
+.panel a:hover {
+    color: white;
+}
+.sidebar h3 {
+    color: whitesmoke
+}
+.table {
+    background: rgba(0,0,0,0.26) !important;
+    border: none;
+    color: white
+}
+.table a {
+    color: rgba(255,255,255,0.74)
+}
+.table .top {
+    background: rgba(0,0,0,0.39)
+}
+.table .top a { 
+color: rgba(255,255,255,0.74) !important
+}
+#about .auto .right {
+    background: rgba(0,0,0,0.26) !important;
+    border-radius: 0px 
+}
+#about .left {
+    background: rgba(0,0,0,0.43);
+    border-radius: 0px
+}
+.table .bottom {
+    background: rgba(0,0,0,0.39)
+}
+.table th {
+    background: rgba(0,0,0,0.39)
+}
+.right_odd {
+    background: rgba(0,0,0,0.29) !important
+}
+.b.center {
+    background: rgba(0,0,0,0.29) !important
+}
+center {
+transition: 0.5s ease !important;
+}
+#player .left {
+    background: rgba(0,0,0,0.43);
+    border-radius: 0px
+}
+#player .auto .right {
+    background: rgba(0,0,0,0.26) !important;
+    border-radius: 0px 
+}
+
+#fraOrganizationBlock > .center .cave-grid {
+    background: rgba(0,0,0,0.47);
+    transition: 0.5s ease;
+    border: none;
+    border-radius: 0px
+}
+#fraCaveList .cave-grid {
+    background: rgba(0,0,0,0.47);
+    transition: 0.5s ease;
+    border: none;
+    border-radius: 0px
+}
+
+.cave-grid {
+    color: white
+}
+.cave-grid:hover {
+    color: rgba(255,255,255,0.74)
+}
+
+.mound-grid {
+    background: rgba(0,0,0,0.47);
+    border: none;
+    border-radius: 0px;
+    color: white;
+}
+.mound-grid:hover {
+    color: rgba(255,255,255,0.74)
+}
+
+.dynastylist .left {
+    background: rgba(0,0,0,0.47);
+    border-radius: 0px;
+    color: white !important;
+}
+   
+.left h3 {
+ color: white !important;    
+}
+.col-sm-4 .left {
+    background: rgba(0,0,0,0.47);
+    border-radius: 0px;
+    color: white !important;
+}
+form div.left {
+        background: rgba(0,0,0,0.47);
+    border-radius: 0px;
+    color: white !important;
+}
+
+.left a {
+    color: white !important
+}
+th a {
+    color: white !important    
+}
+
+.progress-bar {
+    background: darkgray 
+}
+.progress {
+    background: whitesmoke
+}
+
+.lion-image-block {
+    border-radius: 100px;
+    transition: transform 3s ease-in-out;
+}
+.lion-image-block:hover {
+    transform: rotate(720deg) !important
+}
+
+.icon {
+    transition: transform 1s ease-in-out
+}
+.icon:hover {
+    transform: rotateY(720deg)
+}
+
+.small.center img {
+    transition: transform 1s ease-in-out
+}
+.small.center img:hover {
+    transform: rotateY(720deg)
+}
+
+.floatright img {
+    transition: transform 1s ease-in-out
+}
+.floatright img:hover {
+    transform: rotateY(720deg)
+}
+
+.breadcrumb {
+    background: rgba(0,0,0,0.54);
+    color: white !important;
+    border-radius: 0px
+}
+.breadcrumb-item {
+    color: white !important;
+}
+.breadcrumb a {
+    color: white
+}
+.breadcrumb::after {
+	content: "CSS by R1bcage (#565969)";
+	position: absolute;
+	right: 15%;
+	z-index: 100;
+	color: #fefefe;
+}
+.right .right > img {
+    border-radius: 100px;
+    transition: transform 3s ease-in-out
+}
+.right .right > img:hover {
+    transform: rotate(720deg)
+}
+
+.xlarge img {
+    transition: transform 2s ease-in-out
+}
+.xlarge img:hover {
+    transform: rotateY(720deg)
+}
+
+.alert-danger {
+    background: rgba(0,0,0,0.7);
+    border: none;
+    border-radius: 0px;
+    color: rgb(215,77,77)
+}
+.alert img {
+    transition: transform 2s ease-in-out
+}
+.alert img:hover {
+    transform: rotateY(720deg)
+}
+
+.alert-success {
+    background: rgba(0,0,0,0.7);
+    border: none;
+    border-radius: 0px;
+    color: rgb(98,181,50)   
+}
+
+.alert-info {
+    background: rgba(0,0,0,0.7);
+    border: none;
+    border-radius: 0px;
+    color: rgb(77,175,215)
+}
+
+#fraProfileContent {
+    color: white;
+}
+#fraProfileContent h1 {
+    color: white
+}
+#fraProfileContent h2 {
+    color: white
+}
+#fraProfileContent h3 {
+    color: white
+}
+#fraProfileContent h4 {
+    color: white
+}
+#fraProfileContent h5 {
+    color: white
+}
+#fraProfileContent h6 {
+    color: white
+}
+#fraProfileContent h7 {
+    color: white
+}
+#fraProfileContent h8 {
+    color: white
+}
+#fraProfileContent h9 {
+    color: white
+}
+
+.col-xs-12 > h1 {
+    color: white;
+    justify-content: center !important 
+}
+a.btn.btn-default.button {
+background: rgba(0,0,0,0.62);
+border: 3px solid rgba(0,0,0,0.8) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: white !important
+}
+
+a.btn.btn-default.button:hover {
+background: rgba(0,0,0,0.8);
+border: 3px solid rgba(0,0,0,0.85) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: whitesmoke !important
+}
+
+.button img {
+    transition: transform 1.5s ease-in-out
+}
+.button img:hover {
+    transform: rotateY(720deg)
+}
+
+button.button {
+background: rgba(0,0,0,0.62);
+border: 3px solid rgba(0,0,0,0.8) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: white !important
+}
+
+button.button:hover {
+background: rgba(0,0,0,0.8);
+border: 3px solid rgba(0,0,0,0.85) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: whitesmoke !important
+}
+
+.floatright .floatright {
+background: rgba(0,0,0,0.62);
+border: 3px solid rgba(0,0,0,0.8) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: white !important
+}
+
+.floatright .floatright:hover {
+background: rgba(0,0,0,0.8);
+border: 3px solid rgba(0,0,0,0.85) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: whitesmoke !important
+}
+
+.right.center input {
+    background: rgba(0,0,0,0.62);
+border: 3px solid rgba(0,0,0,0.8) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: white !important
+}
+
+.right.center input:hover {
+    background: rgba(0,0,0,0.8);
+border: 3px solid rgba(0,0,0,0.85) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: whitesmoke !important
+}
+
+.right_odd input {
+    background: rgba(0,0,0,0.62);
+border: 3px solid rgba(0,0,0,0.8) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: white !important
+}
+.right_odd input:hover {
+    background: rgba(0,0,0,0.8);
+border: 3px solid rgba(0,0,0,0.85) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: whitesmoke !important
+}
+
+#btnToggleSidebarChat {
+    background: rgba(0,0,0,0.62);
+border: 3px solid rgba(0,0,0,0.8) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: white !important
+}
+#btnToggleSidebarChat:hover {
+background: rgba(0,0,0,0.8);
+border: 3px solid rgba(0,0,0,0.85) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: whitesmoke !important
+}
+
+h3 a {
+    color: white !important;
+}
+
+.s-chat-message:nth-child(even) /* Even Numbered Messages */ {
+background: rgba(0,0,0,0.5) !important;
+color: white!important;
+border: none !important
+}
+
+.s-chat-message:nth-child(odd) /* Odd Numbered Messages */ {
+background: rgba(0,0,0,0.6) !important;
+color: white !important;
+border: none !important
+}
+
+#chatMessageList[data-pings="enabled"] .s-chat-message_mention, /* Message Pings */
+.s-chat-message.hasContext {
+border: 3px solid white !important
+}
+
+.s-chat-message__pinned /* Pinned Message */ {
+background: rgba(0,0,0,0.75) !important;
+color: whitesmoke !important;
+border: none !important
+}
+
+.s-chat-message_timestamp /* Timestamps */ {
+color: rgba(255,255,255,0.7) !important;
+}
+
+div#chatMessageContainer { /* Chat Container */
+border: 5px solid rgba(0,0,0,0.75) !important;
+}
+
+#btnChatSend { /* Roar Button */
+background: rgba(0,0,0,0.62);
+border: 3px solid rgba(0,0,0,0.8) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: white !important
+}
+
+#btnChatSend:hover {
+background: rgba(0,0,0,0.8);
+border: 3px solid rgba(0,0,0,0.85) !important;
+border-radius: 0px;
+text-shadow: none !important;
+color: whitesmoke !important
+}
+
+.navbar-brand img {
+    content: url("https://i.ibb.co/qLDk4t4H/logo-full-3.png")
+}
